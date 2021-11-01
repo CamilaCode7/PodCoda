@@ -12,4 +12,4 @@
 * git branch - usados para listar, excluir ou criar um ramo.
 * git pull - Baixa as alterações do repositorio para o remoto e faz o merge.
 * git log - exiber uma lista de detalhes de uma ramificação.
-* git diff - listar os conflitos.
+* git diff- listar os conflitos.
